@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CommuteJourney</string>
+    <string name="tab_inbound_text">Inbound</string>
+    <string name="tab_outbound_text">Outbound</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="bus_route_text">11 Green Line</string>
+</resources>
